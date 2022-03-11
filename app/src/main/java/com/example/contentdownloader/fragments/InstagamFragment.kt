@@ -35,7 +35,6 @@ class InstagamFragment : Fragment(R.layout.fragment_instagam) {
     private lateinit var binding: FragmentInstagamBinding
     private var FLAG: Boolean = false  //to detect if url is valid or not
     private var global_video_url: String = ""
-    private lateinit var clipboardManager: ClipboardManager
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)

@@ -25,7 +25,6 @@ class FacebookFragment : Fragment(R.layout.fragment_facebook) {
 
     private lateinit var binding: FragmentFacebookBinding
     private lateinit var download_view: View
-    private lateinit var clipboardManager: ClipboardManager
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
