@@ -1,3 +1,3 @@
-Hlo friends !!!!! This is my project of an Social media video downloader which can download Instagram reels/IGTV  , facebook videos and whatsapp statuses .
+Hlo friends !!!!! This is an android Social media video downloader developed in kotlin which can download Instagram reels/IGTV , facebook videos and whatsapp statuses .
 
 Demo Video link is -> 
